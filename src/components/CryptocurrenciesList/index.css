@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.main-heading {
+  text-align: center;
+  font-size: 45px;
+  color: #00e7ff;
+  font-weight: 700;
+}
+.card-container {
+  text-align: center;
+  color: #fff;
+  width: 80%;
+}
+.list-headings {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding: 0 30px;
+  margin-left: -3%;
+}
+.sub-headings {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.table-container {
+  border: 2px solid #00e7ff;
+  margin-bottom: 50px;
+  list-style-type: none;
+}
+.image {
+  width: 100%;
+}

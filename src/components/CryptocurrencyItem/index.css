@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.currency-headings {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 30px;
+  width: 100%;
+}
+.currency-heading {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.value-headings {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  text-align: center;
+}
+.values {
+  font-size: 18px;
+  margin-right: 0px;
+}
